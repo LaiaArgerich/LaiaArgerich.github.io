@@ -1,6 +1,7 @@
 .header{
     background-color: #775F55;
     color: aliceblue;
+    padding: 20px;
 }
 .imatge>img{
     height: 200px;
