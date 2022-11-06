@@ -5,9 +5,11 @@
 }
 .imatge>img{
     height: 200px;
+    padding: 20px;
 }
 h2{
     color: #B85B22;
+    padding-top: 10px;
 }
 h3{
     color: #355D7E;
